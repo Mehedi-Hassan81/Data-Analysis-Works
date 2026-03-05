@@ -6,7 +6,7 @@ End-to-end EDA on the classic Titanic dataset (Kaggle: Titanic – Machine Learn
 Understand passenger characteristics, handle missing data, uncover patterns in survival, and visualize key relationships before modeling.
 
 ## Dataset
-- **File**: train.csv
+- **File**: https://www.kaggle.com/datasets/muhammadyasirsaleem/website?select=titanic_data.csv
 - **Rows**: 891
 - **Columns**: 12
 - **Target**: Survived (0 = No, 1 = Yes)
