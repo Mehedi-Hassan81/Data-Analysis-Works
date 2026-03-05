@@ -50,9 +50,3 @@ Understand passenger characteristics, handle missing data, uncover patterns in s
 - 03 – Survival Analysis (Gender, Class, Port)
 - 04 – Correlations & Visual Summary
 - 05 - Survival Rate Visualizer with barplots and histograms(for future)
-
-## How to Run
-```bash
-git clone https://github.com/[yourusername]/titanic-eda.git
-cd titanic-eda
-jupyter notebook "Titanic_EDA.ipynb"
