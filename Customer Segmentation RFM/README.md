@@ -40,6 +40,3 @@ Transform raw transactional data into actionable customer segments using Recency
 - High-value risk: 1,018 At Risk customers needing urgent re-engagement  
 - Elite group: only 306 true Champions — protect and grow  
 
-cd online-retail-rfm
-pip install -r requirements.txt
-jupyter notebook "Online_Retail_RFM_Analysis.ipynb"
